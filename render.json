@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "description": "Erudita Weewx Dev branch.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Weewx Dev",
+        "name": "erudita/weewx-dev",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/erudita/weewx-dev",
+        "type": "docker"
+    },
+    {
+        "description": "Erudita Weewx Dev branch.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Weewx Master",
+        "name": "erudita/weewx",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/erudita/weewx",
+        "type": "docker"
+    }]
