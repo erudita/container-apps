@@ -11,7 +11,7 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx Dev branch.",
+        "description": "Erudita Weewx Master branch.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "",
