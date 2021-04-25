@@ -1,6 +1,6 @@
 [
     {
-        "description": "Erudita Weewx Dev branch.",
+        "description": "Erudita Weewx single layer.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "",
@@ -11,7 +11,7 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx Master branch.",
+        "description": "Erudita Weewx many layer branch.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "",
