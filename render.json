@@ -5,9 +5,9 @@
         "arch": "amd64",
         "icon": "",
         "displayName": "Weewx Dev",
-        "name": "erudita/weewx-dev",
+        "name": "erudita/weewx-mqtt",
         "version": "latest",
-        "location": "https://hub.docker.com/r/erudita/weewx-dev",
+        "location": "https://hub.docker.com/r/erudita/weewx-mqtt",
         "type": "docker"
     },
     {
