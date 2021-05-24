@@ -1,6 +1,6 @@
 [
     {
-        "description": "Erudita Weewx single layer.",
+        "description": "Erudita Weewx Main.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "",
@@ -11,7 +11,18 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx many layer branch.",
+        "description": "Erudita Weewx Dev.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Weewx MQTT",
+        "name": "erudita/weewx-mqtt-dev",
+        "version": "latest",
+        "location": "https://hub.docker.com/r/erudita/weewx-mqtt-dev",
+        "type": "docker"
+    },
+    {
+        "description": "Erudita Weewx other.",
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "",
