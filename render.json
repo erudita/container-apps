@@ -22,7 +22,7 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx dev.",
+        "description": "Erudita Weewx-mqtt github",
         "repository": "github",
         "arch": "amd64",
         "icon": "",
