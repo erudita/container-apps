@@ -22,8 +22,8 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx-mqtt github",
-        "repository": "github",
+        "description": "Erudita Weewx-mqtt ghcr.io",
+        "repository": "ghcr.io",
         "arch": "amd64",
         "icon": "",
         "displayName": "Weewx MQTT Git",
