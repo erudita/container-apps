@@ -26,9 +26,9 @@
         "repository": "github",
         "arch": "amd64",
         "icon": "",
-        "displayName": "Weewx MQTT Dev Git",
+        "displayName": "Weewx MQTT Git",
         "name": "erudita/weewx",
-        "version": "latest",
-        "location": "https://ghcr.io/erudita/weewx-mqtt:dev",
+        "version": "dev",
+        "location": "https://ghcr.io/erudita/weewx-mqtt",
         "type": "docker"
     }]
