@@ -22,7 +22,18 @@
         "type": "docker"
     },
     {
-        "description": "Erudita Weewx-mqtt ghcr.io",
+        "description": "Erudita Weewx Nightly.",
+        "repository": "ghcr.io",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Weewx MQTT",
+        "name": "erudita/weewx-mqtt",
+        "version": "nightly",
+        "location": "https://ghcr.io/erudita/weewx-mqtt:nightly",
+        "type": "docker"
+    },
+    {
+        "description": "Erudita Weewx-mqtt dev",
         "repository": "ghcr.io",
         "arch": "amd64",
         "icon": "",
